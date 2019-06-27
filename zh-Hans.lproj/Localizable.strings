@@ -1,0 +1,265 @@
+/*
+ Localizable.strings
+ XMRouter
+ 
+ Created by 赵 国辉 on 13-10-10.
+ Copyright (c) 2013年 xiaomi. All rights reserved.
+ */
+
+"xq_status_bar_menu_item_check_update" = "Check for updates";
+
+"xq_status_bar_menu_space_usage_info" = "Used: %.1f%%, total: %@";
+
+"xq_status_bar_menu_access_manager_platform" = "Router management platform";
+
+"xq_status_bar_menu_item_about" = "About";
+
+"xq_status_bar_menu_item_exit" = "Exit";
+
+"xq_status_bar_menu_item_logout" = "Sign out";
+
+"xq_user_guide_window_title" = "Invalid file path";
+
+"xq_status_bar_menu_setting" = "Settings";
+
+"xq_login_btn_title" = "Log in";
+
+"xq_login_btn_cancel" = "Cancel";
+
+"xq_user_guide_finish_btn_title" = "Installation is complete";
+
+"xq_add_new_link_download_menu_item" = "New Magnet Link download";
+
+"xq_alert_message_device_not_bind" = "The device is not binded";
+
+"xq_alert_message_no_device" = "This account is not bound to any device";
+
+"xq_add_new_bt_download_menu_item" = "New torrent download";
+
+"xq_add_download_task_window_title" = "Download task";
+
+"xq_add_download_task_window_title_number" = "%d download task";
+
+"xq_router_volume_title" = "Router Files";
+
+"xq_new_task_list_empty_text" = "No download tasks";
+
+"xq_new_task_list_add_new_task_text" = "Click \"+\" to create new download task";
+
+"xq_router_is_switching" = "Router is swithing";
+
+"xq_input_new_download_link" = "Please enter the Magnet download link";
+
+"xq_add_new_task_window_title" = "New Magnet Link download";
+
+"xq_download_now_btn_title" = "Download Now";
+
+"xq_download_status_pause" = "Paused";
+
+"xq_download_status_stop" = "Stopped";
+
+"xq_download_status_waiting" = "Waiting";
+
+"xq_flag_remote" = "（Remote）";
+
+"xq_download_status_pausing" = "Pausing...";
+
+"xq_download_status_restarting" = "Restarting...";
+
+"xq_download_status_deleting" = "Deleting...";
+
+"xq_download_status_invalid_link" = "Magnet Link invalid";
+
+"xq_choose_file_btn_title" = "Choose";
+
+"xq_choose_file_panel_title" = "Choose a seed file";
+
+"xq_download_im_btn_title" = "Download Now";
+
+"xq_download_cancel_btn_title" = "Cancel";
+
+"xq_client_already_lastest_version" = "You have the latest version";
+
+"xq_alert_ok_btn" = "Ok";
+
+"xq_is_waiting_for_connect" = "Waiting for connection...";
+
+"xq_link_download_failed" = "Operation failed, please try again";
+
+"xq_mount_status_mounting" = "Mounting...";
+
+"xq_about_copyright_string" = "Copyright © 2014 xiaomi. All rights reserved.";
+
+"xq_about_version_string" = "Version %@";
+
+"xq_about_app_name" = "MiWiFi";
+
+"xq_update_version_format" = "Check to see the new version, the latest version number is %@";
+
+"xq_update_window_title" = "Check for updates";
+
+"xq_update_btn_title" = "Update";
+
+"xq_download_redownload" = "Redownload";
+
+"xq_download_cancel_download" = "Cancel";
+
+"xq_download_duplicated_info" = "The current task already exists, download again?";
+
+"xq_download_bt_panel_title" = "OK to download the file?";
+
+"xq_xunlei_engine_error_message" = "Xunlei engine error";
+
+"xq_no_network_text" = "Network connection is broken or device is not online";
+
+"xq_download_completed_text" = "Download complete";
+
+"xq_download_completed_info" = "%@ is downloaded";
+
+"xq_terminate_chrome_text" = "安装Chrome小米路由器下载扩展，需关闭正在运行的Chrome浏览器，是否允许?";
+
+"xq_open_download_file" = "Open downloaded file";
+
+"xq_close_notification" = "Close notification";
+
+"xq_alert_delete_download_tasks" = "Delete task %@?";
+
+"xq_alert_tasks_count" = "Wait for %ld tasks";
+
+"xq_message_r1c_no_usb" = "Insert the USB storage device";
+
+"xq_message_r1c_no_usb_detail" = "";
+
+"xq_message_r1c_wrong_usb" = "We don't support this file system";
+
+"xq_message_r1c_wrong_usb_detail" = "Currently we support only Fat32, extFat formatted USB devices";
+
+"xq_message_r1c_ro_usb" = "The device is currently write-protected";
+
+"xq_message_remove_usb_device_success" = "External USB device was successfully removed";
+
+"xq_message_remove_usb_device_fail" = "Removing external USB device failed";
+
+"xq_menu_title_remove_usb_device" = "Remove external USB device";
+
+"xq_message_install_usb_device" = "USB device is initializing";
+
+"xq_setting_tool_item_common" = "General";
+
+"xq_setting_tool_item_browser" = "Browser";
+
+"xq_setting_common_setting_title" = "Settings:";
+
+"xq_setting_show_notification_when_finished" = "Download notification";
+
+"xq_setting_run_after_launch" = "Run at startup";
+
+"xq_setting_chrome_plugin" = "Chrome Extension";
+
+"xq_setting_safari_plugin" = "Safari Extension";
+
+"xq_setting_install_plugin" = "Install extension";
+
+"xq_setting_uninstall_plugin" = "Uninstall extension";
+
+"xq_ui_login_input_password" = "Enter password";
+
+"xq_ui_login_input_username" = "Enter username";
+
+"xq_ui_login_check_password" = "Remember me";
+
+"xq_ui_login_check_autologin" = "Autologin";
+
+"xq_ui_otp_login_input_otp_code" = "Please enter a 6-bit dynamic port";
+
+"xq_ui_otp_login_check_private" = "This is a private device";
+
+"xq_ui_otp_login_check_public" = "This is a public device";
+
+"xq_ui_dialog_cancel" = "Cancel";
+
+"xq_ui_dialog_confirm" = "Confirm";
+
+"xq_ui_delete_with_file" = "Delete Files";
+
+"xq_ui_setting_language" = "Language: ";
+
+"xq_error_invalid_account" = "Account Invalid";
+
+"xq_error_login_verify_failed" = "Wrong username or password";
+
+"xq_error_login_verify_failed_short_message" = "Please follow the SMS prompt to log back in";
+
+"xq_error_unkown_error" = "Unknown error";
+
+"xq_error_disk_full" = "Disk space is full";
+
+"xq_error_login_network_failed" = "Cannot Connect to Router";
+
+"xq_bind_add_new_router" = "Add new Mi router";
+
+"xq_bind_searching_router" = "Connecting to router...";
+
+"xq_bind_find_an_unbound_router" = "Found a router that can be bound";
+
+"xq_bind_find_no_result" = "Found no router that can be bound";
+
+"xq_bind_bind_success" = "Congratulations, the binding is successful！";
+
+"xq_bind_bind_failed" = "Binding failed, please try again later！";
+
+"xq_bind_prepare_find_router" = "Make sure you are connected to the Mi router";
+
+"xq_bind_bind_now" = "Bind immediately";
+
+"xq_bind_confirm" = "Confirm binding";
+
+"xq_bind_setup_now" = "Setup now";
+
+"xq_bind_router_is_connected" = "Router is connected";
+
+"xq_bind_retry_connect" = "Retry to connect";
+
+"xq_bind_retry_bind" = "Retry to bind";
+
+"xq_bind_done" = "Success";
+
+"xq_bind_empty_password" = "Password cannot be blank";
+
+"xq_bind_input_password_hit" = "Please enter the administrator password";
+
+"xq_bind_input_password_error" = "Incorrect password";
+
+"xq_url_reg_new_user" = "https://account.xiaomi.com/pass/register?_locale=en_US";
+
+"xq_ui_login_open_register_page" = "Register new user";
+
+"xq_alert_message_cannot_access_samba_outside_intranet" = "Connect the MI router to access the file";
+
+"xq_passport_login_page_verifycode_placeholder" = "Please enter verification code";
+
+"xq_disk_no_space_left" = "There is no free space on storage device";
+
+"xq_clean_space_on_disk" = "Please clean up some useless files to free up storage space";
+
+"xq_usb_drive_make_sure_network_ok" = "Please make sure the network connection is active";
+
+"xq_usb_drive_initialized_need_network" = "Storage device initialization requires network connection";
+
+"xq_usb_drive_read_only" = "The storage device is write protected";
+
+"xq_usb_drive_retry_after_allow_write" = "Please disable the write protection and try again";
+
+"xq_usb_drive_initialized_error" = "Initialization error";
+
+"xq_usb_drive_retry_or_restart_router" = "Please try again or restart the router and try again";
+
+"xq_usb_drive_performance_bad" = "U disk performance is low";
+
+"xq_usb_drive_affect_use_recommand_mobile_hd" = "会影响下载，且容易损坏，建议使用移动硬盘";
+
+"xq_usb_drive_unknown_error" = "Unknown error";
+
+"xq_usb_drive_upgrade_app_or_router" = "Please try upgrading your router and mobile client and try again";
+
+"xq_usb_drive_install_retry" = "Retry";
