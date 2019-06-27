@@ -18,3 +18,5 @@ The translation is partially based on [this](https://github.com/jashjacob/MiWIFI
 7. Go to /Applications/XMRouter.app/Contents/Resources
 8. Copy "XMRLoginWindowController.nib" file to /Applications/XMRouter.app/Contents/Resources and replace
 5. Launch XMRouter.app or 小米路由器.app
+
+P.S. If you get error when bind router, switch locale to Hong Kong in Wi-Fi settings
